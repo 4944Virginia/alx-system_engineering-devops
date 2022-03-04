@@ -1,2 +1,2 @@
 #!/bin/bash
-mkidir my_first_directory:/tmp/
+mkidir /tmp/:my_first_directory
